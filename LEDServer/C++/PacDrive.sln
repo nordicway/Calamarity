@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PacDrive", "PacDrive.vcxproj", "{BE3CB61A-3AC6-B2C4-DC0F-050254214DC5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDPTest", "..\UDPTest\UDPTest.vcxproj", "{F506594B-157E-4EF9-8589-CD4EB04FB6BE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InternalsPlugin", "..\..\InternalsPlugins\Win32\InternalsPlugin.vcxproj", "{D0C09F9B-E1D6-4A04-B698-190F52BBA156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3CB61A-3AC6-B2C4-DC0F-050254214DC5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE3CB61A-3AC6-B2C4-DC0F-050254214DC5}.Debug|Win32.Build.0 = Debug|Win32
+		{BE3CB61A-3AC6-B2C4-DC0F-050254214DC5}.Release|Win32.ActiveCfg = Release|Win32
+		{BE3CB61A-3AC6-B2C4-DC0F-050254214DC5}.Release|Win32.Build.0 = Release|Win32
+		{F506594B-157E-4EF9-8589-CD4EB04FB6BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F506594B-157E-4EF9-8589-CD4EB04FB6BE}.Debug|Win32.Build.0 = Debug|Win32
+		{F506594B-157E-4EF9-8589-CD4EB04FB6BE}.Release|Win32.ActiveCfg = Release|Win32
+		{F506594B-157E-4EF9-8589-CD4EB04FB6BE}.Release|Win32.Build.0 = Release|Win32
+		{D0C09F9B-E1D6-4A04-B698-190F52BBA156}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0C09F9B-E1D6-4A04-B698-190F52BBA156}.Debug|Win32.Build.0 = Debug|Win32
+		{D0C09F9B-E1D6-4A04-B698-190F52BBA156}.Release|Win32.ActiveCfg = Release|Win32
+		{D0C09F9B-E1D6-4A04-B698-190F52BBA156}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
